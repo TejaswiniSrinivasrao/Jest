@@ -1,0 +1,11 @@
+What are axios?
+
+Axios is a promise-based HTTP library that lets developers make requests 
+to either their own or a third-party server to fetch data. 
+It offers different ways of making requests 
+such as GET , POST , PUT/PATCH , and DELETE.
+
+what is Jest?
+Jest is a JavaScript testing framework designed to ensure correctness 
+of any JavaScript codebase. It allows you to write tests with an approachable, 
+familiar and feature-rich API that gives you results quickly.
